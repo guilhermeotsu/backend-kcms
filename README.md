@@ -23,6 +23,8 @@ dotnet build
 cd webapi/WebAPI
 
 dotnet run
+
+https://localhost:5001/swagger/index.html
 ```
 
 Obs: O banco de dados está armazenado no Mongo Atlas então não é necessário fazer nenhum configuração.
